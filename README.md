@@ -19,7 +19,7 @@ I'm a high school student with a love for **cybersecurity, AI, and baking**. I e
 I’m always looking to **learn new skills** in both technology and creativity. Right now, I’m focused on improving my **cybersecurity knowledge, coding skills, and AI understanding**, while also exploring ways to combine my love of baking and technology in fun projects.
 
 ## Connect with Me
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/yourprofile)  
-- Email: your.email@example.com  
+- LinkedIn: [Silver Duerson](https://www.linkedin.com/in/silver-duerson-94b0b6360/)  
+- Email: Silverduerson3@gmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silverduerson&show_icons=true&theme=radical)
